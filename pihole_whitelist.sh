@@ -64,4 +64,5 @@ echo "Google Chrome (to update on ubuntu)"
 pihole -w dl.google.com
 echo "Apple ID"
 pihole -w appleid.apple.com
+pihole restartdns
 echo "PiHole Whitelist applied!!!"
